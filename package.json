@@ -1,5 +1,5 @@
 {
-  "name": "coinbase-donate",
+  "name": "donate_crypto",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
