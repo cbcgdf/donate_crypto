@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/donate_crypto/static/css/main.530fac0b.chunk.css",
+    "main.css": "/donate_crypto/static/css/main.aaa5b474.chunk.css",
     "main.js": "/donate_crypto/static/js/main.e04e4f9b.chunk.js",
     "main.js.map": "/donate_crypto/static/js/main.e04e4f9b.chunk.js.map",
     "runtime-main.js": "/donate_crypto/static/js/runtime-main.65c9de06.js",
@@ -8,9 +8,9 @@
     "static/js/2.befb8250.chunk.js": "/donate_crypto/static/js/2.befb8250.chunk.js",
     "static/js/2.befb8250.chunk.js.map": "/donate_crypto/static/js/2.befb8250.chunk.js.map",
     "index.html": "/donate_crypto/index.html",
-    "precache-manifest.733c0b008c434d76cc7222d97789c50f.js": "/donate_crypto/precache-manifest.733c0b008c434d76cc7222d97789c50f.js",
+    "precache-manifest.d7f8dcfa337d4ec356cbfa487e9f4976.js": "/donate_crypto/precache-manifest.d7f8dcfa337d4ec356cbfa487e9f4976.js",
     "service-worker.js": "/donate_crypto/service-worker.js",
-    "static/css/main.530fac0b.chunk.css.map": "/donate_crypto/static/css/main.530fac0b.chunk.css.map",
+    "static/css/main.aaa5b474.chunk.css.map": "/donate_crypto/static/css/main.aaa5b474.chunk.css.map",
     "static/js/2.befb8250.chunk.js.LICENSE.txt": "/donate_crypto/static/js/2.befb8250.chunk.js.LICENSE.txt",
     "static/media/App.css": "/donate_crypto/static/media/header-tit.cad9acf2.jpg",
     "static/media/lfh.jpeg": "/donate_crypto/static/media/lfh.d05cf82d.jpeg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.65c9de06.js",
     "static/js/2.befb8250.chunk.js",
-    "static/css/main.530fac0b.chunk.css",
+    "static/css/main.aaa5b474.chunk.css",
     "static/js/main.e04e4f9b.chunk.js"
   ]
 }
