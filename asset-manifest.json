@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/coinbase-donate/static/css/main.488547d9.chunk.css",
-    "main.js": "/coinbase-donate/static/js/main.2e6243c8.chunk.js",
-    "main.js.map": "/coinbase-donate/static/js/main.2e6243c8.chunk.js.map",
-    "runtime-main.js": "/coinbase-donate/static/js/runtime-main.b88fe4e1.js",
-    "runtime-main.js.map": "/coinbase-donate/static/js/runtime-main.b88fe4e1.js.map",
-    "static/js/2.6bf4509a.chunk.js": "/coinbase-donate/static/js/2.6bf4509a.chunk.js",
-    "static/js/2.6bf4509a.chunk.js.map": "/coinbase-donate/static/js/2.6bf4509a.chunk.js.map",
-    "index.html": "/coinbase-donate/index.html",
-    "precache-manifest.5658b1fbecbb18fc3171429486bbd055.js": "/coinbase-donate/precache-manifest.5658b1fbecbb18fc3171429486bbd055.js",
-    "service-worker.js": "/coinbase-donate/service-worker.js",
-    "static/css/main.488547d9.chunk.css.map": "/coinbase-donate/static/css/main.488547d9.chunk.css.map",
-    "static/js/2.6bf4509a.chunk.js.LICENSE.txt": "/coinbase-donate/static/js/2.6bf4509a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/coinbase-donate/static/media/header-tit.cad9acf2.jpg",
-    "static/media/lfh.jpeg": "/coinbase-donate/static/media/lfh.d05cf82d.jpeg",
-    "static/media/maskbook.svg": "/coinbase-donate/static/media/maskbook.9ed497ab.svg",
-    "static/media/ylf.jpeg": "/coinbase-donate/static/media/ylf.618f6605.jpeg"
+    "main.css": "/donate_crypto/static/css/main.530fac0b.chunk.css",
+    "main.js": "/donate_crypto/static/js/main.e04e4f9b.chunk.js",
+    "main.js.map": "/donate_crypto/static/js/main.e04e4f9b.chunk.js.map",
+    "runtime-main.js": "/donate_crypto/static/js/runtime-main.65c9de06.js",
+    "runtime-main.js.map": "/donate_crypto/static/js/runtime-main.65c9de06.js.map",
+    "static/js/2.befb8250.chunk.js": "/donate_crypto/static/js/2.befb8250.chunk.js",
+    "static/js/2.befb8250.chunk.js.map": "/donate_crypto/static/js/2.befb8250.chunk.js.map",
+    "index.html": "/donate_crypto/index.html",
+    "precache-manifest.733c0b008c434d76cc7222d97789c50f.js": "/donate_crypto/precache-manifest.733c0b008c434d76cc7222d97789c50f.js",
+    "service-worker.js": "/donate_crypto/service-worker.js",
+    "static/css/main.530fac0b.chunk.css.map": "/donate_crypto/static/css/main.530fac0b.chunk.css.map",
+    "static/js/2.befb8250.chunk.js.LICENSE.txt": "/donate_crypto/static/js/2.befb8250.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/donate_crypto/static/media/header-tit.cad9acf2.jpg",
+    "static/media/lfh.jpeg": "/donate_crypto/static/media/lfh.d05cf82d.jpeg",
+    "static/media/maskbook.svg": "/donate_crypto/static/media/maskbook.9ed497ab.svg",
+    "static/media/ylf.jpeg": "/donate_crypto/static/media/ylf.618f6605.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b88fe4e1.js",
-    "static/js/2.6bf4509a.chunk.js",
-    "static/css/main.488547d9.chunk.css",
-    "static/js/main.2e6243c8.chunk.js"
+    "static/js/runtime-main.65c9de06.js",
+    "static/js/2.befb8250.chunk.js",
+    "static/css/main.530fac0b.chunk.css",
+    "static/js/main.e04e4f9b.chunk.js"
   ]
 }
