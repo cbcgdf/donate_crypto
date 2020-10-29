@@ -11,7 +11,7 @@
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://zhouhanseng.github.io/coinbase-donate/",
+  "homepage": "https://cbcgdf.github.io/donate_crypto/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
