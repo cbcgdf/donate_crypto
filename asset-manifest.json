@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f6ab856.chunk.css",
-    "main.js": "/static/js/main.08b8e2aa.chunk.js",
-    "main.js.map": "/static/js/main.08b8e2aa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.32742ee8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.32742ee8.js.map",
-    "static/js/2.6bf4509a.chunk.js": "/static/js/2.6bf4509a.chunk.js",
-    "static/js/2.6bf4509a.chunk.js.map": "/static/js/2.6bf4509a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9e913b9814216d30fcf9e9464daffc6c.js": "/precache-manifest.9e913b9814216d30fcf9e9464daffc6c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1f6ab856.chunk.css.map": "/static/css/main.1f6ab856.chunk.css.map",
-    "static/js/2.6bf4509a.chunk.js.LICENSE.txt": "/static/js/2.6bf4509a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/header-tit.cad9acf2.jpg",
-    "static/media/lfh.jpeg": "/static/media/lfh.d05cf82d.jpeg",
-    "static/media/maskbook.svg": "/static/media/maskbook.9ed497ab.svg",
-    "static/media/ylf.jpeg": "/static/media/ylf.618f6605.jpeg"
+    "main.css": "/coinbase-donate/static/css/main.488547d9.chunk.css",
+    "main.js": "/coinbase-donate/static/js/main.2e6243c8.chunk.js",
+    "main.js.map": "/coinbase-donate/static/js/main.2e6243c8.chunk.js.map",
+    "runtime-main.js": "/coinbase-donate/static/js/runtime-main.b88fe4e1.js",
+    "runtime-main.js.map": "/coinbase-donate/static/js/runtime-main.b88fe4e1.js.map",
+    "static/js/2.6bf4509a.chunk.js": "/coinbase-donate/static/js/2.6bf4509a.chunk.js",
+    "static/js/2.6bf4509a.chunk.js.map": "/coinbase-donate/static/js/2.6bf4509a.chunk.js.map",
+    "index.html": "/coinbase-donate/index.html",
+    "precache-manifest.5658b1fbecbb18fc3171429486bbd055.js": "/coinbase-donate/precache-manifest.5658b1fbecbb18fc3171429486bbd055.js",
+    "service-worker.js": "/coinbase-donate/service-worker.js",
+    "static/css/main.488547d9.chunk.css.map": "/coinbase-donate/static/css/main.488547d9.chunk.css.map",
+    "static/js/2.6bf4509a.chunk.js.LICENSE.txt": "/coinbase-donate/static/js/2.6bf4509a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/coinbase-donate/static/media/header-tit.cad9acf2.jpg",
+    "static/media/lfh.jpeg": "/coinbase-donate/static/media/lfh.d05cf82d.jpeg",
+    "static/media/maskbook.svg": "/coinbase-donate/static/media/maskbook.9ed497ab.svg",
+    "static/media/ylf.jpeg": "/coinbase-donate/static/media/ylf.618f6605.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32742ee8.js",
+    "static/js/runtime-main.b88fe4e1.js",
     "static/js/2.6bf4509a.chunk.js",
-    "static/css/main.1f6ab856.chunk.css",
-    "static/js/main.08b8e2aa.chunk.js"
+    "static/css/main.488547d9.chunk.css",
+    "static/js/main.2e6243c8.chunk.js"
   ]
 }
