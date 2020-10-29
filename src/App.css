@@ -42,7 +42,9 @@
   color: #2f5e09;
   margin: 0 auto;
   width:70%;
+  font-style: italic;  
   margin-bottom: 50px;
+  font-size: 17px !important;
 }
 
 .intro p{
@@ -52,17 +54,17 @@
 }
 
 .maskbookLogo{
-  height: 40px;
+  height: 30px;
   width: auto;
 }
 
 .lfhLogo{
-  height: 110px;
+  height: 90px;
   width: auto;
 }
 
 .ylfLogo{
-  height: 130px;
+  height: 100px;
   width: auto;
 }
 
@@ -77,11 +79,7 @@
 footer{
   border-top: 1px solid #e2e2e2;
   width: 30%;
-  margin: 0 auto;
-  position: fixed;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
+  margin: 80px auto 0;
   padding: 15px 0 5px;
   display: flex;
   align-items: center;
