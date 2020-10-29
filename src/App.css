@@ -52,15 +52,27 @@
 }
 
 .maskbookLogo{
-  height: 50px;
+  height: 40px;
   width: auto;
 }
 
 .lfhLogo{
-  height: 100px;
+  height: 110px;
   width: auto;
 }
 
+.ylfLogo{
+  height: 130px;
+  width: auto;
+}
+
+.important{
+  font-style: italic;
+  font-size: 15px !important;
+  line-height: 16px;  
+  font-weight: 500;
+  color: #1e3f03;  
+}
 
 footer{
   border-top: 1px solid #e2e2e2;
