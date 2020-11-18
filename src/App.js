@@ -39,7 +39,7 @@ function App() {
       <div>
         <Button onClick={()=> {
           window.open('https://commerce.coinbase.com/checkout/4964dddd-419d-49c6-8051-1b9d74c8f9cb')
-        }} variant="contained" color="primary" fontSize="large" size="large">打开 Coinbase</Button> 
+        }} variant="contained" color="primary" fontSize="large" size="large">捐款数字货币</Button> 
       </div>
       <footer>
         <img className="maskbookLogo" src={maskbookLogo} alt="logo" />
