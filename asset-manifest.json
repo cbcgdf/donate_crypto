@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/donate_crypto/static/css/main.aaa5b474.chunk.css",
-    "main.js": "/donate_crypto/static/js/main.e04e4f9b.chunk.js",
-    "main.js.map": "/donate_crypto/static/js/main.e04e4f9b.chunk.js.map",
+    "main.js": "/donate_crypto/static/js/main.93b1cb58.chunk.js",
+    "main.js.map": "/donate_crypto/static/js/main.93b1cb58.chunk.js.map",
     "runtime-main.js": "/donate_crypto/static/js/runtime-main.65c9de06.js",
     "runtime-main.js.map": "/donate_crypto/static/js/runtime-main.65c9de06.js.map",
     "static/js/2.befb8250.chunk.js": "/donate_crypto/static/js/2.befb8250.chunk.js",
     "static/js/2.befb8250.chunk.js.map": "/donate_crypto/static/js/2.befb8250.chunk.js.map",
     "index.html": "/donate_crypto/index.html",
-    "precache-manifest.d7f8dcfa337d4ec356cbfa487e9f4976.js": "/donate_crypto/precache-manifest.d7f8dcfa337d4ec356cbfa487e9f4976.js",
+    "precache-manifest.6da75c7f717ee331e6d0b2dd66602e74.js": "/donate_crypto/precache-manifest.6da75c7f717ee331e6d0b2dd66602e74.js",
     "service-worker.js": "/donate_crypto/service-worker.js",
     "static/css/main.aaa5b474.chunk.css.map": "/donate_crypto/static/css/main.aaa5b474.chunk.css.map",
     "static/js/2.befb8250.chunk.js.LICENSE.txt": "/donate_crypto/static/js/2.befb8250.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.65c9de06.js",
     "static/js/2.befb8250.chunk.js",
     "static/css/main.aaa5b474.chunk.css",
-    "static/js/main.e04e4f9b.chunk.js"
+    "static/js/main.93b1cb58.chunk.js"
   ]
 }

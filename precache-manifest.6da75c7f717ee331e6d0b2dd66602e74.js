@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bf74a6e4685a45904befbe874053426",
+    "revision": "84bb2dc5221aba3c2081d35cdafb397a",
     "url": "/donate_crypto/index.html"
   },
   {
-    "revision": "179db5fb13cd8a9f1956",
+    "revision": "7ecabf8fc6ef393a4a36",
     "url": "/donate_crypto/static/css/main.aaa5b474.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/donate_crypto/static/js/2.befb8250.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "179db5fb13cd8a9f1956",
-    "url": "/donate_crypto/static/js/main.e04e4f9b.chunk.js"
+    "revision": "7ecabf8fc6ef393a4a36",
+    "url": "/donate_crypto/static/js/main.93b1cb58.chunk.js"
   },
   {
     "revision": "ca289860313ad3d7dc10",
