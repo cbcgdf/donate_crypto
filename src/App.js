@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src="./header.png" alt=""/>
       </header>
-      <h3 className="title">Bridge to Contributions BTC</h3>
+      <h3 className="title">Cryptocurrency Donation</h3>
       <div class="intro">
         <p class="important">
         “展望未来，我国青年一代必将大有可为，也必将大有作为。
@@ -34,12 +34,21 @@ function App() {
         <p>
         我们相信，任何人，不论国籍宗教行业背景都有参与贡献到社会公共事业建设中的权利与义务，
         结果导向是我们的准则，所有被捐赠项目均经过相关官方基金会的严格审核，并接受社会公众监督。
-        </p>                
+        </p>     
+        <p>
+        Youth Leader Fund (CBCGDF) aims for sustainable development and solves for the most urgent problems in social development alongside the youth leaders in tech innovations and culture & art. The fund also emphasizes beneficial commerce and helps explore technology for humanity’s well-being. The fund will partner up with influential youth leaders who have already navigated innovative pathways to further explore and practice in an organized manner how tech innovation and culture & art can help to strive for the great renewal of the Chinese nation.
+        </p>  
+        <p>
+        Funds raised in this project will be devoted to research and hackathons for tech for the public good and sustainable growth. By and large, this project aims to stimulate public participation, enhance fundraising efficiency, help charity projects to be carried out, and support developing talents for social impact.
+        </p>  
+        <p>
+        We believe anyone, no matter nationality, religion, background, all have a duty to participate in building public good. All the projects receiving donation are strictly reviewed by relevant official foundations and welcome oversight from the public.
+        </p>                                     
       </div>  
       <div>
         <Button onClick={()=> {
           window.open('https://commerce.coinbase.com/checkout/4964dddd-419d-49c6-8051-1b9d74c8f9cb')
-        }} variant="contained" color="primary" fontSize="large" size="large">捐款数字货币</Button> 
+        }} variant="contained" color="primary" fontSize="large" size="large">捐款虚拟货币</Button> 
       </div>
       <footer>
         <img className="maskbookLogo" src={maskbookLogo} alt="logo" />
